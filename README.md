@@ -8,7 +8,7 @@
 
 # Video
 
-
+[![Alt text](https://i9.ytimg.com/vi/t0QksteS-ws/mq2.jpg?sqp=CLiC5IEG&rs=AOn4CLCcAAmyQaf0SSa-GRIef1ObA5YYKg)](youtube.com/watch?v=t0QksteS-ws&feature=youtu.be)
 
 # Content
 
