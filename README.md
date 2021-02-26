@@ -1,8 +1,16 @@
 # Indoor Air Purification IoT
 
+# Description
+
 #### It detects the fine dusts and then control the other hardwares according to the number of them.
 #### If you want to use this code raw, you need to set up to use serial communication in RaspberryPi first.
 #### I can tell you how, but it's not that hard work so you can figure it out searching in the web. So Good luck!
+
+# Video
+
+
+
+# Content
 
 ![Slide1](https://user-images.githubusercontent.com/50034678/74426710-2c64fc80-4e99-11ea-83c3-8f510c03a1b1.JPG)
 ![Slide2](https://user-images.githubusercontent.com/50034678/74426714-2d962980-4e99-11ea-895e-ff34c03dc30b.JPG)
